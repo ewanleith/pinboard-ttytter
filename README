@@ -18,3 +18,7 @@ Note, that's your pinboard API key, available in the Pinboard settings page, not
 To execute on startup, run ttyter.pl with the exts flag set like:
 
 ttyter.pl -exts=/path/to/pinboard.pl
+
+
+
+This plugin is based on the Delicious extension to ttyter available here: https://www.reuteras.com/confluence/display/Projects/TTYtter+addons by Peter Reuteras
