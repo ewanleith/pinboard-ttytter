@@ -1,4 +1,10 @@
-Plugin for ttyter to let you add tweets to pinboard
+Plugin for ttyter to let you add tweets to pinboard, by running the /pin command with a tweet ID, e.g.
+
+c4> <user> This is a tweet test
+
+/pin c4
+
+Will add a new pinboard entry pointing at the original twitter URL for that tweet, with the description "This is a tweet test"
 
 Relies on the URI::Escape perl module, install it from CPAN using:
 
