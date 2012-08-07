@@ -1,0 +1,10 @@
+Plugin for ttyter to let you add tweets to pinboard
+
+Relies on the URI::Escape perl module, install it from CPAN using:
+
+sudo cpan install URI::Escape 
+
+
+Your Pinboard authentication details need to be stored in ~/.pinboard in the format of username:PINBOARD_API_KEY
+
+Note, that's your pinboard API key, available in the Pinboard settings page, not your password!
